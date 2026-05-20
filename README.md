@@ -52,7 +52,7 @@ The selected hard-level landing page was recreated successfully using HTML and C
 
 ## 🎨 Original Website Reference
 
-[🔗 View Original Website Design]([https://your-reference-website-link.com](https://ayush-ahirwar-12.github.io/Oliv-Responsive-Branding-Agency-Landing-Page/))
+[🔗 View Original Website Design](https://ayush-ahirwar-12.github.io/Oliv-Responsive-Branding-Agency-Landing-Page/)
 
 > Replace the above link with the actual website link that was provided in the assignment.
 
